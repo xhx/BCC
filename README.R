@@ -1,6 +1,5 @@
 # Models for Sage BCC
 # Instructions on how to use each model
-# author: xhx@ics.uci.edu
 #
 
 modelClassFile <- "EnsembleModelBCC.R"
